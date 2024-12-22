@@ -38,7 +38,7 @@ class GoldPlus extends Gold{
         this.height = 77;
         this.m = 80;
         this.count = 8;
-        this.img = Toolkit.getDefaultToolkit().getImage("img/gold0.gif");
+        this.img = Toolkit.getDefaultToolkit().getImage("img/Gold0.gif");
     }
 
 }
